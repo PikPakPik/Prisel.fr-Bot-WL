@@ -3,6 +3,7 @@
   <a href="https://github.com/Yaguxxx"><img src="https://steamuserimages-a.akamaihd.net/ugc/945086959068650569/BF46D4334A531975826BC5B213353C505EA540E2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Prisel.fr WL (Bot Discord)"</a>
   <br>
   Prisel.fr WL (Bot Discord)
+    <br><img src="https://i.imgur.com/TQpSOIF.png">
   <br>
 </h1>
 
